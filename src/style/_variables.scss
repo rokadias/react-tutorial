@@ -1,0 +1,76 @@
+/* 
+COLORS
+*/
+// Greens
+$primary-green: #10C993;
+$inactive-green: #BBE6D9;
+$active-green: #0FB282;
+$highlight-green: #DEF5E9;
+// Blues
+$transfer-blue: #0D748C;
+$inactive-transfer-blue: #88BBC7;
+$active-transfer-blue: #09667C;
+$link-blue: #05ADC9;
+// Grays
+$medium-gray: #6D6D6D;
+$inactive-gray: #CECCCC;
+$dark-gray: #3C3C3C;
+$light-gray: $inactive-gray;
+$active-gray: #555555;
+// Misc
+$orange: #F05A28; // For errors
+
+/*
+FONT SIZES
+*/
+$line-height: 1.25rem;
+$jumbo-size: 4.5rem;
+$heading-one-size: 2rem;
+$heading-two-size: 1.5rem;
+$subheading-one-size: 1.25rem;
+$subheading-two-size: 1.125rem;
+$button-text-size: 1.125rem;
+$default-text-size: 100%;
+$error-size: .75rem;
+$small-text-size: .75rem;
+$subtext-size: .625rem;
+
+/*
+ICON SIZES
+*/
+$small-icon-size: 1rem;
+$default-icon-size: 1.5rem;
+$large-icon-size: 2.75rem;
+$xlarge-icon-size: 4.5rem;
+
+/*
+BREAKPOINTS
+*/
+$tablet: 30em; // 480px @ 16px base
+$tablet-wide: 48em; // 768px
+$desktop: 62em; // 992px
+$desktop-wide: 75em; // 1200px
+
+/*
+GRID
+*/
+// mobile
+$mobile-cols: 4;
+$mobile-margins: 1rem;
+$mobile-gutters: 1rem;
+// tablet
+$tablet-cols: 8;
+$tablet-margins: 1rem;
+$tablet-gutters: 1rem;
+// tablet-wide
+$tablet-wide-cols: 8;
+$tablet-wide-margins: 1.5rem;
+$tablet-wide-gutters: 1.5rem;
+// desktop
+$desktop-cols: 12;
+$desktop-margins: 1.5rem;
+$desktop-gutters: 1.5rem;
+// desktop-wide
+$desktop-wide-cols: 12;
+$desktop-wide-margins: 1.5rem;
+$desktop-wide-gutters: 1.5rem;
